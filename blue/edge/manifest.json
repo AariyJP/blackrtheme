@@ -1,21 +1,20 @@
 {
   "manifest_version": 3,
-  "name": "Black × Red Material Theme",
+  "name": "Blue Mode (Edge)",
   "theme": {
     "colors": {
-      "bookmark_text": [255, 102, 102],
-      "frame": [0, 0, 0],
+      "bookmark_text": [102, 170, 255],
+      "frame": [17, 17, 17],
       "frame_inactive": [17, 17, 17],
-      "frame_incognito": [0, 0, 0],
-      "ntp_text": [255, 102, 102],
+      "ntp_text": [102, 170, 255],
       "omnibox_background": [0, 0, 0],
-      "omnibox_text": [255, 102, 102],
+      "omnibox_text": [102, 170, 255],
       "tab_background_text": [102, 102, 102],
       "tab_background_text_inactive": [102, 102, 102],
-      "tab_text": [255, 102, 102],
+      "tab_text": [102, 170, 255],
       "toolbar": [0, 0, 0],
       "toolbar_button_icon": [221, 221, 221],
-      "toolbar_text": [255, 102, 102]
+      "toolbar_text": [102, 170, 255]
     },
     "images": {},
     "properties": {},
