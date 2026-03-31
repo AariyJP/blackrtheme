@@ -1,25 +1,25 @@
 {
   "manifest_version": 3,
-  "version": "1.0.0.1",
   "name": "Black × Red Material Theme",
   "theme": {
-    "images": {},
     "colors": {
-      "frame": [0,0,0],
-      "frame_inactive": [17,17,17],
-      "frame_incognito": [0,0,0],
-      "tab_text": [255,102,102],
-      "tab_background_text": [102,102,102],
-      "bookmark_text": [255,102,102],
-      "omnibox_background": [0,0,0],
-      "omnibox_text": [255,102,102],
-      "ntp_text": [255,102,102],
-      "tab_background_text_inactive": [102,102,102],
-      "toolbar": [0,0,0],
-      "toolbar_text": [255,102,102],
-      "toolbar_button_icon": [221,221,221]
+      "bookmark_text": [255, 102, 102],
+      "frame": [0, 0, 0],
+      "frame_inactive": [17, 17, 17],
+      "frame_incognito": [0, 0, 0],
+      "ntp_text": [255, 102, 102],
+      "omnibox_background": [0, 0, 0],
+      "omnibox_text": [255, 102, 102],
+      "tab_background_text": [102, 102, 102],
+      "tab_background_text_inactive": [102, 102, 102],
+      "tab_text": [255, 102, 102],
+      "toolbar": [0, 0, 0],
+      "toolbar_button_icon": [221, 221, 221],
+      "toolbar_text": [255, 102, 102]
     },
-    "tints": {},
-    "properties": {}
-  }
+    "images": {},
+    "properties": {},
+    "tints": {}
+  },
+  "version": "1.0.0.1"
 }
