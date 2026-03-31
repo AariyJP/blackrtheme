@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0.1",
+  "name": "Black × Blue Material Theme",
+  "theme": {
+    "images": {},
+    "colors": {
+      "frame": [0,0,0],
+      "frame_inactive": [17,17,17],
+      "frame_incognito": [0,0,0],
+      "tab_text": [102,170,255],
+      "tab_background_text": [102,102,102],
+      "bookmark_text": [102,170,255],
+      "omnibox_background": [0,0,0],
+      "omnibox_text": [102,170,255],
+      "ntp_text": [102,170,255],
+      "tab_background_text_inactive": [102,102,102],
+      "toolbar": [0,0,0],
+      "toolbar_text": [102,170,255],
+      "toolbar_button_icon": [221,221,221]
+    },
+    "tints": {},
+    "properties": {}
+  }
+}
